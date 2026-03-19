@@ -1,1 +1,1 @@
-# Biodiversity-Informational-Platform-Web-Development
+# Biodiversity-Informational-Platform
