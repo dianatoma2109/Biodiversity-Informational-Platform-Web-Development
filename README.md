@@ -1,5 +1,3 @@
-Developed a responsive educational website using HTML5, CSS3, and JavaScript.
-Created an interactive Accordion menu to organize complex scientific information into a user-friendly format.
 
 
 # Biodiversity-Informational-Platform
